@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "MtayLtRChEPwgkxCyODZFu4nO3ZN23h9/FEx14EZ+ZyKoJjEaStiPNTkwbchxdMNfkGHtpD42d95igEhhhpO+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pirat\\source\\repos\\Animales\\Animales.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pirat\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\pirat\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\pirat\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
