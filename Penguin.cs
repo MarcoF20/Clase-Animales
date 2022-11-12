@@ -17,7 +17,7 @@ namespace Animales
         }
         public override void jugar()
         {
-            Console.WriteLine("El pinguino esta bailando");
+            Console.WriteLine("El pingüino esta bailando");
         }
 
     }
